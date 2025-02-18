@@ -4,7 +4,7 @@ Welcome to my Coding Practice repository! This repository is dedicated to solvin
 
 ## Table of Contents
 
-- [Codewars](#codewars)
+- [Codewars]((https://github.com/AndSam321/CodingPractice/tree/main/CodeWars))
 - [LeetCode](#leetcode)
 
 
