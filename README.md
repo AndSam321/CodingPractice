@@ -6,6 +6,5 @@ Welcome to my Coding Practice repository! This repository is dedicated to solvin
 
 - [Codewars](#codewars)
 - [LeetCode](#leetcode)
-- [How to Contribute](#how-to-contribute)
-- [Technologies Used](#technologies-used)
+
 
