@@ -21,4 +21,4 @@ def fib(n):
         return calculate_fibonacci_pair(n)[0]
     else:
         absolute_fib = calculate_fibonacci_pair(-n)[0]
-        return -absolute_fib if n % 2 == 0 else absolute_fib
+        return -absolute_fib if n % 2 == 0 else absolute_fibzs
